@@ -1,0 +1,7 @@
+tensorflow>=2.8  # TensorFlow 2.8 and above should support Python 3.11
+keras>=2.8  # Use a version of Keras compatible with TensorFlow 2.8+
+imutils==0.5.3
+numpy>=1.23  # Use a newer version of NumPy
+opencv-python>=4.5  # Ensure OpenCV is updated for newer Python compatibility
+matplotlib>=3.4  # Update Matplotlib as well
+scipy>=1.7    # Update SciPy to a newer version 
